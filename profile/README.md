@@ -21,7 +21,7 @@ This setup allows for a streamlined development process, as changes can be easil
 - [User manual](../docs/userManual.pdf)
 
 ## Project management
-- [Sprint retros](../docs/sprints.pdf)
+- [Sprint retros](../docs/TeamNomNom_TP0.pdf)
   
 ## Authors
 Evita Šriupšaitė  
