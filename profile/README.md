@@ -14,14 +14,14 @@ This setup allows for a streamlined development process, as changes can be easil
 ![arch](https://github.com/NomNom-app/.github/assets/61557728/01ca4145-48f7-47db-9fe9-47a4a69a8410)
 
 ## Testing reports
-- [Testing plan](../docs/testPlan.pdf)
-- [Unit tests](../docs/unitTests.pdf)
+- [Testing plan](docs/testPlan.pdf)
+- [Unit tests](docs/unitTests.pdf)
 
 ## Documentation
-- [User manual](../docs/userManual.pdf)
+- [User manual](docs/userManual.pdf)
 
 ## Project management
-- [Sprint retros](../docs/TeamNomNom_TP0.pdf)
+- [Sprint retros](docs/TeamNomNom_TP0.pdf)
   
 ## Authors
 Evita Šriupšaitė  
